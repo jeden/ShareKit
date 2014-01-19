@@ -65,20 +65,6 @@
 		7A0F9200156BA2A0009CB40A /* SHKDiigo.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EFCD8B14C6B966004910F1 /* SHKDiigo.m */; };
 		7A0F9201156BA2A0009CB40A /* SHKVkontakteOAuthView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5AA3B6149625460064DB24 /* SHKVkontakteOAuthView.m */; };
 		7A0F9202156BA2A0009CB40A /* SHKVkontakte.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5AA3BA149625460064DB24 /* SHKVkontakte.m */; };
-		7A0F9203156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9204156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9205156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9206156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9207156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9208156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9209156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920A156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920B156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920C156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920D156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920E156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F920F156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7A0F9210156BA2A0009CB40A /* (null) in Sources */ = {isa = PBXBuildFile; };
 		7A0F9211156BA2A0009CB40A /* SHKEvernote.m in Sources */ = {isa = PBXBuildFile; fileRef = 4379F2B11291AC9700D2A41E /* SHKEvernote.m */; };
 		7A0F921C156BA2A0009CB40A /* SHKFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536DD11DBE3B9004A1712 /* SHKFacebook.m */; };
 		7A0F921D156BA2A0009CB40A /* NSError+SHKFoursquareV2.m in Sources */ = {isa = PBXBuildFile; fileRef = C0276D7514336ACC00C93FAA /* NSError+SHKFoursquareV2.m */; };
@@ -183,20 +169,6 @@
 		7AB5350A1552BE7D00171BCE /* SHKDiigo.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EFCD8B14C6B966004910F1 /* SHKDiigo.m */; };
 		7AB5350B1552BE7D00171BCE /* SHKVkontakteOAuthView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5AA3B6149625460064DB24 /* SHKVkontakteOAuthView.m */; };
 		7AB5350D1552BE7D00171BCE /* SHKVkontakte.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5AA3BA149625460064DB24 /* SHKVkontakte.m */; };
-		7AB535101552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535121552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535141552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535161552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535181552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB5351A1552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB5351D1552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535201552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535221552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535241552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB535281552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB5352A1552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB5352D1552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
-		7AB5352F1552BE7D00171BCE /* (null) in Sources */ = {isa = PBXBuildFile; };
 		7AB535311552BE7D00171BCE /* SHKEvernote.m in Sources */ = {isa = PBXBuildFile; fileRef = 4379F2B11291AC9700D2A41E /* SHKEvernote.m */; };
 		7AB535351552BE7D00171BCE /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AC22D2814580A2000126878 /* NSObject+SBJSON.m */; };
 		7AB535371552BE7D00171BCE /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AC22D2A14580A2000126878 /* NSString+SBJSON.m */; };
@@ -1662,20 +1634,6 @@
 				7A0F9200156BA2A0009CB40A /* SHKDiigo.m in Sources */,
 				7A0F9201156BA2A0009CB40A /* SHKVkontakteOAuthView.m in Sources */,
 				7A0F9202156BA2A0009CB40A /* SHKVkontakte.m in Sources */,
-				7A0F9203156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9204156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9205156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9206156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9207156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9208156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9209156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920A156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920B156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920C156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920D156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920E156BA2A0009CB40A /* (null) in Sources */,
-				7A0F920F156BA2A0009CB40A /* (null) in Sources */,
-				7A0F9210156BA2A0009CB40A /* (null) in Sources */,
 				7A0F9211156BA2A0009CB40A /* SHKEvernote.m in Sources */,
 				7A0F921C156BA2A0009CB40A /* SHKFacebook.m in Sources */,
 				7A0F921D156BA2A0009CB40A /* NSError+SHKFoursquareV2.m in Sources */,
@@ -1760,20 +1718,6 @@
 				7AB5350A1552BE7D00171BCE /* SHKDiigo.m in Sources */,
 				7AB5350B1552BE7D00171BCE /* SHKVkontakteOAuthView.m in Sources */,
 				7AB5350D1552BE7D00171BCE /* SHKVkontakte.m in Sources */,
-				7AB535101552BE7D00171BCE /* (null) in Sources */,
-				7AB535121552BE7D00171BCE /* (null) in Sources */,
-				7AB535141552BE7D00171BCE /* (null) in Sources */,
-				7AB535161552BE7D00171BCE /* (null) in Sources */,
-				7AB535181552BE7D00171BCE /* (null) in Sources */,
-				7AB5351A1552BE7D00171BCE /* (null) in Sources */,
-				7AB5351D1552BE7D00171BCE /* (null) in Sources */,
-				7AB535201552BE7D00171BCE /* (null) in Sources */,
-				7AB535221552BE7D00171BCE /* (null) in Sources */,
-				7AB535241552BE7D00171BCE /* (null) in Sources */,
-				7AB535281552BE7D00171BCE /* (null) in Sources */,
-				7AB5352A1552BE7D00171BCE /* (null) in Sources */,
-				7AB5352D1552BE7D00171BCE /* (null) in Sources */,
-				7AB5352F1552BE7D00171BCE /* (null) in Sources */,
 				7AB535311552BE7D00171BCE /* SHKEvernote.m in Sources */,
 				7AB535351552BE7D00171BCE /* NSObject+SBJSON.m in Sources */,
 				7AB535371552BE7D00171BCE /* NSString+SBJSON.m in Sources */,
